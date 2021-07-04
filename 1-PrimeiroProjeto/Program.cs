@@ -13,6 +13,9 @@ namespace _1_PrimeiroProjeto
             Console.WriteLine("Olá mundo! Projeto no VisualStudio");
             Console.WriteLine("A execução acabou. Tecle enter para finalizar...");
             Console.ReadLine();
+
+
+            //teste git
         }
     }
 }
