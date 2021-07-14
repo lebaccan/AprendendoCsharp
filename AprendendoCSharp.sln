@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestaEscopo", "TestaEscopo\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alíquota-com-ifs", "Alíquota-com-ifs\Alíquota-com-ifs.csproj", "{73D03BA9-1C8D-440D-AEA1-D24D6944A31C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "comando-switch", "comando-switch\comando-switch.csproj", "{4700EC35-1273-4937-9831-2F6031A5F54E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{73D03BA9-1C8D-440D-AEA1-D24D6944A31C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73D03BA9-1C8D-440D-AEA1-D24D6944A31C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73D03BA9-1C8D-440D-AEA1-D24D6944A31C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4700EC35-1273-4937-9831-2F6031A5F54E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4700EC35-1273-4937-9831-2F6031A5F54E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4700EC35-1273-4937-9831-2F6031A5F54E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4700EC35-1273-4937-9831-2F6031A5F54E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
