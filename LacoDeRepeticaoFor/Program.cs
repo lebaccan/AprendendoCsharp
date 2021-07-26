@@ -10,14 +10,15 @@ namespace LacoDeRepeticaoFor
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Executando laços de repetição For");
-
-            for (int contador = 0; contador <= 10 ; contador++)
+            for (int multiplicador = 1; multiplicador <= 10; multiplicador++)
             {
-                Console.WriteLine(contador);
-
+                for (int contador = 0; contador <= 10; contador++)
+                {
+                    Console.Write(multiplicador + " * " + contador + " = " + multiplicador * contador);
+                    Console.WriteLine();
+                }
+                Console.WriteLine();
             }
-            
             Console.ReadLine();
         }
     }
